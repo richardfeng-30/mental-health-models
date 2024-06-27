@@ -1,0 +1,427 @@
+[
+{
+  "id": 1,
+  "age": 14,
+  "gender": "male",
+  "race_ethnicity": "African American",
+  "socio_economic_status": "middle",
+  "urban_rural": "urban",
+  "parental_involvement": "medium",
+  "hobbies": ["video games", "basketball", "drawing"],
+  "big_five_personality": {
+    "Openness": 0,
+    "Conscientiousness": 1,
+    "Extraversion": 1,
+    "Agreeableness": 0,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 2,
+  "age": 16,
+  "gender": "female",
+  "race_ethnicity": "Hispanic",
+  "socio_economic_status": "lower",
+  "urban_rural": "urban",
+  "parental_involvement": "high",
+  "hobbies": ["reading", "dancing", "painting"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 1,
+    "Extraversion": 0,
+    "Agreeableness": 1,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 3,
+  "age": 12,
+  "gender": "male",
+  "race_ethnicity": "White",
+  "socio_economic_status": "upper",
+  "urban_rural": "rural",
+  "parental_involvement": "medium",
+  "hobbies": ["swimming", "reading", "coding"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 0,
+    "Extraversion": 0,
+    "Agreeableness": 1,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 4,
+  "age": 17,
+  "gender": "female",
+  "race_ethnicity": "Asian",
+  "socio_economic_status": "middle",
+  "urban_rural": "urban",
+  "parental_involvement": "high",
+  "hobbies": ["piano", "volleyball", "photography"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 1,
+    "Extraversion": 1,
+    "Agreeableness": 0,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 5,
+  "age": 15,
+  "gender": "male",
+  "race_ethnicity": "Native American",
+  "socio_economic_status": "lower",
+  "urban_rural": "rural",
+  "parental_involvement": "low",
+  "hobbies": ["hiking", "video games", "fishing"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 0,
+    "Extraversion": 0,
+    "Agreeableness": 1,
+    "Neuroticism": 1
+  }
+},
+{
+  "id": 6,
+  "age": 10,
+  "gender": "female",
+  "race_ethnicity": "White",
+  "socio_economic_status": "upper",
+  "urban_rural": "urban",
+  "parental_involvement": "high",
+  "hobbies": ["ballet", "reading", "sketching"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 1,
+    "Extraversion": 0,
+    "Agreeableness": 1,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 7,
+  "age": 13,
+  "gender": "female",
+  "race_ethnicity": "Biracial",
+  "socio_economic_status": "middle",
+  "urban_rural": "urban",
+  "parental_involvement": "medium",
+  "hobbies": ["soccer", "reading", "painting"],
+  "big_five_personality": {
+    "Openness": 0,
+    "Conscientiousness": 1,
+    "Extraversion": 1,
+    "Agreeableness": 1,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 8,
+  "age": 18,
+  "gender": "male",
+  "race_ethnicity": "Hispanic",
+  "socio_economic_status": "lower",
+  "urban_rural": "urban",
+  "parental_involvement": "low",
+  "hobbies": ["basketball", "video games", "skateboarding"],
+  "big_five_personality": {
+    "Openness": 0,
+    "Conscientiousness": 0,
+    "Extraversion": 1,
+    "Agreeableness": 0,
+    "Neuroticism": 1
+  }
+},
+{
+  "id": 9,
+  "age": 9,
+  "gender": "female",
+  "race_ethnicity": "African American",
+  "socio_economic_status": "middle",
+  "urban_rural": "urban",
+  "parental_involvement": "high",
+  "hobbies": ["dancing", "reading", "playing piano"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 1,
+    "Extraversion": 0,
+    "Agreeableness": 1,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 10,
+  "age": 19,
+  "gender": "male",
+  "race_ethnicity": "Asian",
+  "socio_economic_status": "upper",
+  "urban_rural": "urban",
+  "parental_involvement": "medium",
+  "hobbies": ["chess", "swimming", "programming"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 1,
+    "Extraversion": 0,
+    "Agreeableness": 0,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 11,
+  "age": 11,
+  "gender": "female",
+  "race_ethnicity": "White",
+  "socio_economic_status": "middle",
+  "urban_rural": "rural",
+  "parental_involvement": "high",
+  "hobbies": ["horse riding", "reading", "painting"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 0,
+    "Extraversion": 1,
+    "Agreeableness": 1,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 12,
+  "age": 15,
+  "gender": "male",
+  "race_ethnicity": "Native American",
+  "socio_economic_status": "lower",
+  "urban_rural": "rural",
+  "parental_involvement": "low",
+  "hobbies": ["hiking", "video games", "fishing"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 0,
+    "Extraversion": 0,
+    "Agreeableness": 1,
+    "Neuroticism": 1
+  }
+},
+{
+  "id": 13,
+  "age": 8,
+  "gender": "female",
+  "race_ethnicity": "White",
+  "socio_economic_status": "middle",
+  "urban_rural": "urban",
+  "parental_involvement": "high",
+  "hobbies": ["painting", "gymnastics", "reading"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 1,
+    "Extraversion": 0,
+    "Agreeableness": 1,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 14,
+  "age": 20,
+  "gender": "male",
+  "race_ethnicity": "Hispanic",
+  "socio_economic_status": "middle",
+  "urban_rural": "urban",
+  "parental_involvement": "medium",
+  "hobbies": ["soccer", "video games", "photography"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 0,
+    "Extraversion": 1,
+    "Agreeableness": 0,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 15,
+  "age": 10,
+  "gender": "female",
+  "race_ethnicity": "African American",
+  "socio_economic_status": "lower",
+  "urban_rural": "urban",
+  "parental_involvement": "low",
+  "hobbies": ["dancing", "singing", "playing soccer"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 0,
+    "Extraversion": 1,
+    "Agreeableness": 1,
+    "Neuroticism": 1
+  }
+},
+{
+  "id": 16,
+  "age": 14,
+  "gender": "male",
+  "race_ethnicity": "Asian",
+  "socio_economic_status": "upper",
+  "urban_rural": "urban",
+  "parental_involvement": "high",
+  "hobbies": ["math club", "robotics", "piano"],
+  "big_five_personality": {
+    "Openness": 0,
+    "Conscientiousness": 1,
+    "Extraversion": 0,
+    "Agreeableness": 1,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 17,
+  "age": 12,
+  "gender": "female",
+  "race_ethnicity": "Biracial",
+  "socio_economic_status": "middle",
+  "urban_rural": "urban",
+  "parental_involvement": "medium",
+  "hobbies": ["reading", "playing violin", "soccer"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 1,
+    "Extraversion": 0,
+    "Agreeableness": 1,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 18,
+  "age": 9,
+  "gender": "male",
+  "race_ethnicity": "White",
+  "socio_economic_status": "middle",
+  "urban_rural": "rural",
+  "parental_involvement": "high",
+  "hobbies": ["soccer", "reading", "video games"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 0,
+    "Extraversion": 1,
+    "Agreeableness": 1,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 19,
+  "age": 16,
+  "gender": "female",
+  "race_ethnicity": "Hispanic",
+  "socio_economic_status": "middle",
+  "urban_rural": "urban",
+  "parental_involvement": "medium",
+  "hobbies": ["dancing", "volunteering", "painting"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 1,
+    "Extraversion": 1,
+    "Agreeableness": 0,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 20,
+  "age": 11,
+  "gender": "male",
+  "race_ethnicity": "Asian",
+  "socio_economic_status": "upper",
+  "urban_rural": "urban",
+  "parental_involvement": "high",
+  "hobbies": ["piano", "coding", "swimming"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 0,
+    "Extraversion": 0,
+    "Agreeableness": 1,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 21,
+  "age": 17,
+  "gender": "female",
+  "race_ethnicity": "African American",
+  "socio_economic_status": "middle",
+  "urban_rural": "urban",
+  "parental_involvement": "high",
+  "hobbies": ["writing", "ballet", "volunteering"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 1,
+    "Extraversion": 0,
+    "Agreeableness": 1,
+    "Neuroticism": 1
+  }
+},
+{
+  "id": 22,
+  "age": 13,
+  "gender": "male",
+  "race_ethnicity": "Biracial",
+  "socio_economic_status": "lower",
+  "urban_rural": "urban",
+  "parental_involvement": "low",
+  "hobbies": ["basketball", "coding", "playing guitar"],
+  "big_five_personality": {
+    "Openness": 0,
+    "Conscientiousness": 0,
+    "Extraversion": 1,
+    "Agreeableness": 1,
+    "Neuroticism": 1
+  }
+},
+{
+  "id": 23,
+  "age": 18,
+  "gender": "female",
+  "race_ethnicity": "Native American",
+  "socio_economic_status": "middle",
+  "urban_rural": "rural",
+  "parental_involvement": "medium",
+  "hobbies": ["hiking", "reading", "photography"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 1,
+    "Extraversion": 0,
+    "Agreeableness": 1,
+    "Neuroticism": 0
+  }
+},
+{
+  "id": 24,
+  "age": 8,
+  "gender": "male",
+  "race_ethnicity": "White",
+  "socio_economic_status": "upper",
+  "urban_rural": "urban",
+  "parental_involvement": "high",
+  "hobbies": ["Lego building", "soccer", "reading"],
+  "big_five_personality": {
+    "Openness": 0,
+    "Conscientiousness": 0,
+    "Extraversion": 1,
+    "Agreeableness": 1,
+    "Neuroticism": 1
+  }
+},
+{
+  "id": 25,
+  "age": 12,
+  "gender": "female",
+  "race_ethnicity": "African American",
+  "socio_economic_status": "lower",
+  "urban_rural": "urban",
+  "parental_involvement": "medium",
+  "hobbies": ["reading", "singing", "basketball"],
+  "big_five_personality": {
+    "Openness": 1,
+    "Conscientiousness": 1,
+    "Extraversion": 1,
+    "Agreeableness": 1,
+    "Neuroticism": 0
+  }
+}
+]

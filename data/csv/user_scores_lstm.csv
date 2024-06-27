@@ -1,0 +1,301 @@
+id,age,gender,race_ethnicity,socio_economic_status,urban_rural,parental_involvement,hobbies,Openness,Conscientiousness,Extraversion,Agreeableness,Neuroticism,average_positive_probability_before,count_id_before,average_positive_probability_after,count_id_after,,diff
+1,15,male,Asian,middle,urban,medium,"basketball,videogames,coding",1,0,1,1,0,0.492557152,5,0.326844882,5,,-0.16571227
+2,13,female,Latino,lower,rural,high,"reading,painting,volleyball",0,1,0,1,0,0.613683148,5,0.56097366,5,,-0.052709488
+3,10,male,African American,middle,urban,medium,"soccer,drawing,playingguitar",1,0,1,0,1,0.512847668,5,0.849938888,5,,0.33709122
+4,17,female,White,upper,urban,high,"ballet,photography,volunteering",1,1,1,1,0,0.774741706,5,0.761138554,5,,-0.013603152
+5,12,male,Hispanic,lower,rural,low,"videogames,skateboarding,drawing",0,0,1,0,1,0.465768282,5,0.64349222,5,,0.177723938
+6,14,female,Native American,middle,rural,medium,"reading,horseriding,crafts",1,1,0,1,0,0.782552064,5,0.701127866,5,,-0.081424198
+7,16,male,White,upper,urban,high,"swimming,coding,playingthepiano",1,1,0,0,1,0.369193243,5,0.689510714,5,,0.320317471
+8,11,female,African American,middle,urban,high,"dancing,reading,painting",1,0,1,1,0,0.834734372,5,0.82058264,5,,-0.014151732
+9,18,male,Asian,upper,urban,medium,"chess,tennis,debateclub",1,1,0,0,1,0.507761188,5,0.72624779,5,,0.218486602
+10,13,female,White,lower,rural,low,"sketching,soccer,playingguitar",1,0,1,0,1,0.4805378,5,0.850247326,5,,0.369709526
+11,9,male,Hispanic,middle,urban,high,"legobuilding,cycling,reading",1,1,0,1,0,0.789175316,5,0.737613342,5,,-0.051561974
+12,19,female,Mixed,upper,urban,medium,"photography,volunteering,yoga",1,1,0,0,1,0.408922328,5,0.810747304,5,,0.401824976
+13,16,male,African American,middle,urban,low,"basketball,videogames,rapmusic",1,0,1,0,1,0.457963144,5,0.84828762,5,,0.390324476
+14,12,female,Native American,lower,rural,medium,"reading,naturewalks,crafts",1,1,0,1,0,0.898003984,5,0.93214036,5,,0.034136376
+15,14,male,White,middle,urban,medium,"coding,soccer,videogames",1,0,1,1,0,0.739496144,5,0.655612428,5,,-0.083883716
+16,10,female,Hispanic,lower,urban,high,"dancing,drawing,reading",1,1,1,1,0,0.83734823,5,0.644209198,5,,-0.193139032
+17,18,male,Asian,upper,urban,medium,"swimming,chess,photography",1,1,0,0,1,0.53272817,5,0.84378254,5,,0.31105437
+18,12,female,African American,middle,urban,high,"singing,baking,basketball",1,1,1,1,0,0.878724788,5,0.922062148,5,,0.04333736
+19,15,male,White,middle,rural,medium,"fishing,videogames,woodworking",1,0,1,1,0,0.860768054,5,0.868332926,5,,0.007564872
+20,13,female,Mixed,lower,urban,high,"writing,dancing,volleyball",1,1,1,1,0,0.85999976,5,0.899692038,5,,0.039692278
+21,17,male,Hispanic,upper,urban,medium,"soccer,coding,painting",1,1,0,1,0,0.784726548,5,0.84687354,5,,0.062146992
+22,9,female,White,lower,urban,medium,"drawing,playingpiano,horseriding",1,0,1,1,1,0.76276496,5,0.828794678,5,,0.066029718
+23,16,male,African American,middle,urban,low,"basketball,videogames,rapmusic",0,1,1,0,1,0.401548188,5,0.804452738,5,,0.40290455
+24,11,female,Asian,upper,urban,high,"ballet,reading,piano",1,1,0,1,0,0.883327308,5,0.82230031,5,,-0.061026998
+25,14,male,Hispanic,middle,rural,medium,"skateboarding,videogames,basketball",0,0,1,0,1,0.628971156,5,0.709645516,5,,0.08067436
+26,14,male,White,middle,urban,medium,"videogames,basketball,reading",1,1,1,0,0,0.305816284,5,0.559590786,5,,0.253774502
+27,16,female,African American,upper,urban,high,"dancing,painting,swimming",1,1,1,1,0,0.446016036,5,0.665771928,5,,0.219755892
+28,10,female,Asian,middle,urban,medium,"reading,playingpiano,soccer",1,1,0,1,0,0.76479966,5,0.74620796,5,,-0.0185917
+29,13,male,Hispanic,lower,rural,low,"skating,drawing,videogames",1,0,1,0,1,0.433233762,5,0.665579886,5,,0.232346124
+30,17,female,White,upper,urban,high,"debateclub,volleyball,reading",1,1,1,1,0,0.621542918,5,0.760129752,5,,0.138586834
+31,11,male,Native American,middle,rural,medium,"fishing,hiking,reading",1,0,1,1,0,0.831110832,5,0.830771976,5,,-0.000338856
+32,15,female,African American,middle,urban,high,"writing,basketball,playingguitar",1,1,0,1,0,0.697992532,5,0.793948224,5,,0.095955692
+33,12,male,Hispanic,lower,urban,low,"soccer,videogames,drawing",1,0,1,1,1,0.399024574,5,0.57655347,5,,0.177528896
+34,18,female,Asian,upper,urban,high,"coding,chess,reading",1,1,0,1,0,0.666911708,5,0.68047901,5,,0.013567302
+35,9,male,Mixed,middle,urban,medium,"legobuilding,reading,soccer",1,1,1,1,0,0.746407956,5,0.800321312,5,,0.053913356
+36,20,female,White,lower,rural,low,"hiking,reading,painting",1,0,0,1,1,0.584532446,5,0.728840192,5,,0.144307746
+37,13,female,Middle Eastern,upper,urban,high,"reading,coding,ballet",1,1,0,1,0,0.740235034,5,0.531973208,5,,-0.208261826
+38,14,male,African American,middle,urban,medium,"basketball,music,coding",1,1,1,0,0,0.626076404,5,0.703609938,5,,0.077533534
+39,16,female,Hispanic,lower,urban,medium,"drawing,volleyball,reading",1,1,0,1,1,0.480869186,5,0.760062854,5,,0.279193668
+40,19,male,Asian,middle,urban,high,"gaming,coding,basketball",1,1,1,0,0,0.622954478,5,0.558594526,5,,-0.064359952
+41,8,female,Native American,lower,rural,medium,"painting,reading,swimming",1,0,0,1,1,0.656487092,5,0.780116032,5,,0.12362894
+42,12,male,African American,upper,urban,high,"football,playingviolin,coding",1,1,1,1,0,0.617029266,5,0.60480855,5,,-0.012220716
+43,10,female,White,middle,urban,medium,"dance,reading,baking",1,1,0,1,0,0.835727374,5,0.818324652,5,,-0.017402722
+44,15,male,Hispanic,lower,urban,low,"skateboarding,drawing,videogames",1,0,0,1,1,0.570523216,5,0.605963014,5,,0.035439798
+45,17,female,Middle Eastern,middle,urban,high,"painting,swimming,reading",1,1,0,1,0,0.791495926,5,0.758782198,5,,-0.032713728
+46,11,male,Mixed,middle,urban,medium,"soccer,reading,videogames",1,0,1,1,1,0.703535618,5,0.89329201,5,,0.189756392
+47,18,female,African American,lower,urban,high,"dancing,volunteering,playingviolin",1,1,1,1,0,0.62670657,5,0.790750038,5,,0.164043468
+48,9,male,Asian,upper,urban,high,"piano,soccer,painting",1,1,0,1,0,0.737839672,5,0.85203485,5,,0.114195178
+49,14,female,Hispanic,middle,urban,medium,"swimming,reading,photography",1,0,1,1,0,0.75071327,5,0.868532244,5,,0.117818974
+50,13,male,Native American,lower,rural,low,"fishing,reading,playingguitar",1,0,0,1,1,0.567805754,5,0.798701292,5,,0.230895538
+51,11,female,Hispanic,middle,urban,high,"reading,soccer,painting",1,1,0,1,0,0.495033224,5,0.775088212,5,,0.280054988
+52,15,male,White,upper,urban,medium,"tennis,videogames,drawing",1,1,1,1,0,0.568582352,5,0.702157004,5,,0.133574652
+53,13,female,Asian,middle,urban,high,"piano,mathclub,reading",1,1,0,1,0,0.65876812,5,0.679739384,5,,0.020971264
+54,10,male,African American,lower,rural,low,"soccer,videogames,drawing",1,0,1,1,1,0.600443142,5,0.613747256,5,,0.013304114
+55,17,female,Hispanic,middle,urban,medium,"volleyball,photography,reading",1,1,1,1,0,0.78923702,5,0.719697626,5,,-0.069539394
+56,12,male,White,middle,urban,high,"baseball,reading,videogames",1,1,0,1,1,0.67956411,5,0.680300162,5,,0.000736052
+57,16,female,Asian,upper,urban,high,"ballet,piano,digitalart",1,1,0,1,1,0.614973374,5,0.707369992,5,,0.092396618
+58,9,male,Hispanic,lower,rural,medium,"football,drawing,reading",1,1,1,0,0,0.706354602,5,0.633709872,5,,-0.07264473
+59,14,female,Asian,middle,urban,high,"swimming,playingtheviolin,coding",1,1,0,1,0,0.658818008,5,0.760489328,5,,0.10167132
+60,13,male,African American,middle,urban,medium,"basketball,videogames,writing",1,0,1,1,0,0.703453486,5,0.807380902,5,,0.103927416
+61,18,female,White,upper,urban,low,"acting,traveling,photography",1,0,1,1,0,0.78510686,5,0.787709888,5,,0.002603028
+62,12,female,Hispanic,middle,urban,high,"reading,soccer,painting",1,1,1,0,0,0.743220018,5,0.82772325,5,,0.084503232
+63,15,male,African American,lower,urban,medium,"football,music,videogames",1,0,1,1,1,0.624163988,5,0.771808558,5,,0.14764457
+64,11,male,Native American,middle,rural,high,"fishing,drawing,reading",1,1,0,1,0,0.815436304,5,0.91054787,5,,0.095111566
+65,16,female,Asian,middle,urban,high,"debate,piano,reading",1,1,0,1,0,0.80310894,5,0.779446706,5,,-0.023662234
+66,10,male,White,upper,urban,medium,"legobuilding,soccer,videogames",1,1,1,1,0,0.745855058,5,0.813399858,5,,0.0675448
+67,13,female,African American,middle,urban,high,"singing,dance,reading",1,0,1,1,0,0.720275278,5,0.837315944,5,,0.117040666
+68,14,male,Hispanic,lower,urban,medium,"basketball,videogames,drawing",1,0,1,1,1,0.703058028,5,0.602884552,5,,-0.100173476
+69,17,female,Asian,upper,urban,high,"coding,swimming,piano",1,1,0,1,0,0.63546131,5,0.773859764,5,,0.138398454
+70,12,male,White,middle,rural,low,"skateboarding,videogames,drawing",1,0,1,0,1,0.634632122,5,0.681992458,5,,0.047360336
+71,15,female,Hispanic,middle,urban,medium,"volleyball,photography,reading",1,0,1,1,0,0.743361244,5,0.800577134,5,,0.05721589
+72,11,male,African American,lower,urban,low,"basketball,videogames,drawing",1,0,1,1,1,0.706202728,5,0.770453922,5,,0.064251194
+73,13,female,Asian,upper,urban,high,"reading,piano,tennis",1,1,0,1,0,0.710694016,5,0.803767122,5,,0.093073106
+74,14,male,White,middle,rural,medium,"fishing,hiking,videogames",1,0,1,0,1,0.684666138,5,0.712807846,5,,0.028141708
+75,14,male,African American,middle,urban,medium,"basketball,videogames,reading",1,0,1,1,0,0.7849487,5,0.784036002,5,,-0.000912698
+76,16,male,White,middle,urban,medium,"videogames,basketball,reading",1,0,1,1,0,0.400940848,5,0.410611662,5,,0.009670814
+77,14,female,African American,lower,urban,high,"dancing,drawing,reading",1,1,1,0,0,0.522220556,5,0.514581334,5,,-0.007639222
+78,10,male,Asian,middle,urban,medium,"chess,swimming,reading",1,1,0,1,0,0.377388512,5,0.766143282,5,,0.38875477
+79,13,female,Hispanic,upper,urban,high,"painting,soccer,piano",1,1,1,1,0,0.723932914,5,0.73058798,5,,0.006655066
+80,18,male,Native American,lower,rural,low,"hiking,fishing,videogames",1,0,0,1,1,0.477084554,5,0.677848674,5,,0.20076412
+81,15,female,White,middle,urban,medium,"volleyball,reading,painting",1,0,1,1,0,0.63635228,5,0.676434174,5,,0.040081894
+82,12,male,African American,middle,urban,high,"basketball,videogames,coding",1,1,1,1,0,0.616191912,5,0.83959042,5,,0.223398508
+83,19,female,Hispanic,upper,urban,medium,"photography,traveling,volunteering",1,1,1,1,0,0.650367916,5,0.730698464,5,,0.080330548
+84,11,male,Asian,middle,urban,high,"legobuilding,soccer,piano",1,1,0,1,0,0.796906746,5,0.669199072,5,,-0.127707674
+85,17,female,White,upper,rural,medium,"horsebackriding,writing,gardening",1,1,0,1,0,0.802766768,5,0.724523792,5,,-0.078242976
+86,9,male,Mixed,lower,urban,low,"drawing,cycling,videogames",1,0,1,0,1,0.459310542,5,0.526500773,5,,0.067190231
+87,14,female,African American,middle,urban,high,"ballet,reading,scienceexperiments",1,1,1,1,0,0.786853688,5,0.65145569,5,,-0.135397998
+88,20,male,Hispanic,upper,urban,medium,"running,coding,playingguitar",1,1,1,0,0,0.722470498,5,0.654688926,5,,-0.067781572
+89,8,female,Asian,middle,urban,high,"painting,reading,playingpiano",1,1,0,1,0,0.69742637,5,0.724861158,5,,0.027434788
+90,16,male,Native American,lower,rural,medium,"hiking,fishing,drumming",1,0,1,0,1,0.63210741,5,0.687878458,5,,0.055771048
+91,13,female,Mixed,middle,urban,medium,"dance,drawing,reading",1,1,0,1,0,0.743361394,5,0.736652572,5,,-0.006708822
+92,18,male,White,upper,urban,high,"photography,traveling,playingguitar",1,1,1,1,0,0.634300792,5,0.651411478,5,,0.017110686
+93,15,female,African American,middle,urban,medium,"basketball,singing,coding",1,1,1,1,0,0.64177696,5,0.639471128,5,,-0.002305832
+94,11,male,Hispanic,lower,urban,low,"soccer,videogames,drawing",1,0,0,0,1,0.54118595,5,0.700513696,5,,0.159327746
+95,12,female,Asian,upper,urban,high,"violin,swimming,reading",1,1,0,1,0,0.78803426,5,0.747636332,5,,-0.040397928
+96,10,male,White,middle,rural,medium,"legobuilding,soccer,reading",1,0,1,1,0,0.762240436,5,0.7356318,5,,-0.026608636
+97,13,female,African American,lower,urban,high,"basketball,drawing,reading",1,1,0,1,0,0.74646044,5,0.724702364,5,,-0.021758076
+98,17,male,Mixed,middle,urban,medium,"skateboarding,videogames,coding",1,0,1,1,0,0.693926454,5,0.646357522,5,,-0.047568932
+99,12,female,Native American,lower,rural,low,"drawing,hiking,playingdrums",1,0,0,1,1,0.66311723,5,0.633939574,5,,-0.029177656
+100,14,male,Hispanic,middle,urban,medium,"soccer,videogames,reading",1,1,1,1,0,0.754313128,5,0.69349071,5,,-0.060822418
+101,16,female,Hispanic,middle,urban,medium,"reading,painting,dance",1,1,0,1,0,0.395576439,10,0.566720875,10,,0.171144436
+102,14,male,African American,lower,urban,low,"basketball,videogames,skateboarding",0,0,1,1,1,0.282811986,5,0.438376572,5,,0.155564586
+103,12,female,Asian,upper,urban,high,"piano,reading,mathclub,swimming",1,1,0,1,0,0.592680398,5,0.861884006,5,,0.269203608
+104,15,male,White,middle,rural,medium,"fishing,videogames,football,reading",0,1,1,0,1,0.45307328,5,0.64750433,5,,0.19443105
+105,10,female,Native American,lower,rural,high,"drawing,reading,hiking",1,1,0,1,0,0.74215794,5,0.854829462,5,,0.112671522
+106,18,male,Hispanic,middle,urban,medium,"soccer,videogames,coding,running",1,0,1,0,1,0.423712498,5,0.707086336,5,,0.283373838
+107,13,female,African American,upper,urban,high,"ballet,reading,scienceclub,volleyball",1,1,1,1,0,0.688805096,5,0.813348036,5,,0.12454294
+108,17,male,White,lower,rural,low,"hiking,fishing,videogames,woodworking",1,0,0,1,1,0.557130178,5,0.862396872,5,,0.305266694
+109,11,female,Asian,middle,urban,high,"reading,chess,drawing,violin",1,1,0,1,0,0.79861696,5,0.901391516,5,,0.102774556
+110,19,male,Mixed,middle,urban,medium,"soccer,programming,musicproduction,photography",1,1,1,0,1,0.493883641,5,0.78551953,5,,0.291635889
+111,9,female,Hispanic,lower,urban,high,"reading,ballet,drawing",1,1,0,1,0,0.826557,5,0.878663452,5,,0.052106452
+112,14,male,African American,middle,urban,medium,"basketball,reading,coding,drumming",1,1,1,0,1,0.543050822,5,0.8021397,5,,0.259088878
+113,10,female,White,upper,urban,high,"piano,swimming,scienceexperiments,painting",1,1,0,1,0,0.814908304,5,0.83153472,5,,0.016626416
+114,16,male,Hispanic,lower,urban,medium,"football,videogames,skateboarding,photography",1,0,1,1,1,0.506766496,5,0.8647296,5,,0.357963104
+115,12,female,Asian,middle,urban,high,"reading,dance,coding,chess",1,1,0,1,0,0.737449416,5,0.777243168,5,,0.039793752
+116,18,male,Native American,lower,rural,low,"hiking,fishing,videogames,drawing",1,0,1,0,1,0.438296464,5,0.852828614,5,,0.41453215
+117,15,female,African American,middle,urban,medium,"basketball,singing,cooking,reading",1,1,1,0,0,0.712427326,5,0.881818714,5,,0.169391388
+118,11,male,White,middle,urban,high,"soccer,videogames,reading,robotics",1,1,0,1,0,0.76007334,5,0.844100678,5,,0.084027338
+119,13,female,Mixed,upper,urban,high,"painting,piano,swimming,scienceclub",1,1,0,1,0,0.83902736,5,0.864761234,5,,0.025733874
+120,12,male,Asian,middle,urban,medium,"coding,chess,basketball,reading",1,1,0,1,1,0.711947702,5,0.827657892,5,,0.11571019
+121,8,female,White,middle,rural,high,"drawing,reading,ballet,naturewalks",1,1,0,1,0,0.799628226,5,0.896567882,5,,0.096939656
+122,20,male,African American,upper,urban,medium,"basketball,coding,musicproduction,videogames",1,1,1,0,0,0.785587214,5,0.879221886,5,,0.093634672
+123,9,female,Mixed,middle,urban,high,"reading,gymnastics,painting,playingtheviolin",1,1,1,1,0,0.86638404,5,0.91742222,5,,0.05103818
+124,13,male,Asian,upper,urban,medium,"robotics,videogames,soccer,swimming",1,1,0,0,1,0.770379914,5,0.814421224,5,,0.04404131
+125,17,female,Native American,lower,rural,low,"writing,photography,running,communityvolunteering",1,0,1,1,1,0.558725576,5,0.85631328,5,,0.297587704
+126,14,female,White,middle,urban,medium,"reading,trackandfield,videogames",1,1,0,1,0,0.379828774,5,0.513882902,5,,0.134054128
+127,16,male,African American,lower,urban,high,"basketball,drawing,music",1,0,1,1,0,0.554815276,5,0.589145332,5,,0.034330056
+128,11,female,Asian,upper,urban,high,"piano,reading,swimming",1,1,0,1,0,0.768782448,5,0.731656974,5,,-0.037125474
+129,13,male,Hispanic,middle,urban,medium,"soccer,videogames,drawing",1,0,1,1,0,0.6699712,5,0.81949224,5,,0.14952104
+130,17,female,White,upper,urban,high,"debate,reading,volunteering",1,1,1,1,0,0.55241186,5,0.759049392,5,,0.206637532
+131,10,male,Native American,lower,rural,medium,"fishing,painting,cooking",1,0,0,1,0,0.702446038,6,0.814265086,5,,0.111819048
+132,15,female,Asian,middle,urban,low,"coding,chess,basketball",1,1,0,1,0,0.569517622,5,0.781172522,5,,0.2116549
+133,12,male,Hispanic,middle,urban,high,"soccer,videogames,drawing",1,0,1,1,0,0.71934218,5,0.782292814,5,,0.062950634
+134,9,female,African American,lower,urban,high,"dance,reading,baking",1,1,1,1,0,0.851289088,5,0.82410746,5,,-0.027181628
+135,13,female,White,middle,rural,medium,"horsebackriding,painting,reading",1,0,1,1,0,0.847357066,5,0.78574409,5,,-0.061612976
+136,11,male,Hispanic,middle,rural,low,"soccer,drawing,reading",1,0,1,0,1,0.43638748,5,0.769248334,5,,0.332860854
+137,14,female,Asian,upper,urban,high,"violin,reading,coding",1,1,0,1,0,0.79876438,5,0.781495642,5,,-0.017268738
+138,18,male,African American,middle,urban,medium,"basketball,videogames,music",1,0,1,1,0,0.544662462,5,0.82469299,5,,0.280030528
+139,16,female,Middle Eastern,upper,urban,high,"debateclub,volunteering,tennis",1,1,1,1,0,0.673193824,5,0.81378115,5,,0.140587326
+140,12,male,Hispanic,middle,urban,low,"drawing,skateboarding,videogames",1,0,1,1,0,0.594111689,5,0.587516516,5,,-0.006595173
+141,15,female,Native American,lower,rural,medium,"running,writing,crafts",1,0,1,1,0,0.737499846,5,0.765328112,5,,0.027828266
+142,10,male,White,middle,urban,high,"legobuilding,reading,soccer",1,0,1,1,0,0.740222852,5,0.809783438,5,,0.069560586
+143,17,female,Pacific Islander,lower,urban,medium,"singing,basketball,photography",1,1,1,0,0,0.606745584,5,0.737781716,5,,0.131036132
+144,13,male,Asian,middle,urban,high,"robotics,chess,swimming",1,1,0,1,0,0.74359512,5,0.782936694,5,,0.039341574
+145,14,female,African American,middle,urban,high,"reading,dancing,cooking",1,1,1,0,0,0.782711546,5,0.84119766,5,,0.058486114
+146,16,male,Hispanic,middle,urban,medium,"soccer,videogames,coding",1,0,1,1,0,0.591726358,5,0.86392409,5,,0.272197732
+147,12,female,White,middle,urban,high,"swimming,drawing,playingthepiano",1,1,1,1,0,0.696042388,5,0.78079014, ,,0.084747752
+148,17,male,Native American,lower,rural,medium,"hiking,painting,guitar",1,0,1,1,0,0.72130257,5,0.821980966,5,,0.100678396
+149,14,female,African American,middle,urban,high,"dancing,reading,scienceexperiments",1,1,1,1,0,0.764547776,5,0.819540006,5,,0.05499223
+150,11,male,Asian,upper,urban,high,"mathclub,piano,basketball",1,1,0,1,0,0.642559044,5,0.847087726,5,,0.204528682
+151,14,male,African American,middle,urban,medium,"basketball,videogames,coding",1,0,1,0,1,0.372084362,5,0.56117838,5,,0.189094018
+152,11,female,Hispanic,lower,urban,high,"reading,dancing,drawing",1,1,1,1,0,0.618058232,5,0.847372074,5,,0.229313842
+153,16,male,Asian,upper,urban,medium,"chess,swimming,robotics",1,1,0,1,0,0.44561678,5,0.557637238,5,,0.112020458
+154,13,female,White,middle,rural,low,"horsebackriding,reading,painting",1,0,0,1,1,0.36310524,5,0.585614746,5,,0.222509506
+155,18,male,Native American,lower,rural,medium,"hiking,videogames,fishing",1,0,1,1,0,0.536088102,5,0.71839123,5,,0.182303128
+156,10,female,African American,middle,urban,high,"singing,drawing,playingsoccer",1,1,1,1,0,0.782781822,5,0.88205552,5,,0.099273698
+157,15,female,White,upper,urban,high,"ballet,photography,reading",1,1,0,1,0,0.55587978,5,0.730269592,5,,0.174389812
+158,17,male,Hispanic,middle,urban,low,"playingguitar,basketball,videogames",1,0,1,0,1,0.51600831,5,0.74711164,5,,0.23110333
+159,12,female,Asian,upper,urban,high,"piano,reading,swimming",1,1,0,1,0,0.702065596,5,0.823571244,5,,0.121505648
+160,19,male,White,lower,rural,medium,"hiking,playingfootball,woodworking",1,1,1,1,0,0.493599202,5,0.81116704,5,,0.317567838
+161,9,female,African American,middle,urban,high,"dancing,reading,playingpiano",1,1,1,1,0,0.84833272,5,0.800603342,5,,-0.047729378
+162,14,male,Hispanic,lower,urban,medium,"soccer,videogames,drawing",1,0,1,0,1,0.474882994,5,0.618429634,5,,0.14354664
+163,16,female,Asian,upper,urban,high,"painting,playingviolin,tennis",1,1,0,1,0,0.62956733,5,0.834561872,5,,0.204994542
+164,13,male,Native American,lower,rural,low,"fishing,storytelling,skateboarding",1,0,1,1,0,0.469996808,5,0.809835956,5,,0.339839148
+165,10,female,White,middle,urban,medium,"reading,ballet,painting",1,1,0,1,0,0.766939324,5,0.77954603,5,,0.012606706
+166,18,male,African American,lower,urban,low,"basketball,rapmusic,videogames",1,0,1,0,1,0.46650173,5,0.752308698,5,,0.285806968
+167,12,female,Hispanic,middle,urban,high,"reading,dancing,playingsoccer",1,1,1,1,0,0.752936832,5,0.80243628,5,,0.049499448
+168,15,male,Asian,upper,urban,high,"playingpiano,chess,coding",1,1,0,1,0,0.607524822,5,0.814825682,5,,0.20730086
+169,9,female,White,middle,rural,medium,"drawing,cycling,reading",1,1,0,1,0,0.758216784,5,0.873060262,5,,0.114843478
+170,11,male,African American,lower,urban,medium,"soccer,videogames,drawing",1,0,1,0,1,0.486533244,5,0.786912698,5,,0.300379454
+171,13,female,Hispanic,middle,urban,high,"dancing,painting,playingsoccer",1,1,1,1,0,0.812098766,5,0.794508008,5,,-0.017590758
+172,20,male,Native American,lower,rural,medium,"hunting,drumming,fishing",1,1,0,1,0,0.562116406,5,0.69156332,5,,0.129446914
+173,17,female,White,upper,urban,high,"swimming,photography,volunteering",1,1,1,1,0,0.540225018,5,0.766787134,5,,0.226562116
+174,8,male,African American,middle,urban,high,"playingsoccer,reading,drawing",1,0,1,1,0,0.677684328,5,0.91146125,5,,0.233776922
+175,14,female,Asian,upper,urban,high,"playingviolin,reading,coding",1,1,0,1,0,0.579741228,5,0.841168058,5,,0.26142683
+176,14,male,White,middle,urban,medium,"videogames,basketball,reading",1,0,1,0,0,0.357673478,5,0.675880194,5,,0.318206716
+177,16,female,Asian,upper,urban,high,"painting,reading,playingpiano",1,1,0,1,0,0.311110272,5,0.695703456,5,,0.384593184
+178,11,male,African American,lower,urban,low,"soccer,videogames,drawing",1,0,1,1,1,0.226060962,5,0.608651634,5,,0.382590672
+179,18,female,Latino,middle,rural,medium,"reading,volleyball,crafting",1,1,0,1,0,0.43997773,5,0.683102302,5,,0.243124572
+180,10,female,Native American,lower,rural,high,"reading,swimming,painting",1,0,0,1,1,0.6747875,5,0.741144432,5,,0.066356932
+181,17,male,White,upper,urban,medium,"videogames,skateboarding,coding",1,1,0,0,0,0.26654553,5,0.723182062,5,,0.456636532
+182,13,female,African American,middle,urban,medium,"dancing,reading,basketball",1,0,1,0,1,0.489076793,5,0.669458142,5,,0.180381349
+183,15,male,Latino,lower,urban,low,"soccer,videogames,drawing",1,0,1,0,1,0.219657069,5,0.618026028,5,,0.398368959
+184,12,female,Asian,middle,urban,high,"reading,playingviolin,swimming",1,1,0,1,0,0.57611512,5,0.733531686,5,,0.157416566
+185,19,male,White,upper,urban,medium,"hiking,photography,robotics",1,1,0,1,0,0.630197246,5,0.754919328,5,,0.124722082
+186,14,female,African American,middle,urban,high,"singing,basketball,poetry",1,0,1,1,0,0.498547082,5,0.7314669,5,,0.232919818
+187,10,male,Latino,lower,rural,low,"football,drawing,videogames",1,0,1,1,1,0.342566788,5,0.712833934,5,,0.370267146
+188,16,female,Asian,middle,urban,medium,"coding,playingpiano,reading",1,1,0,1,0,0.54379462,5,0.724587762,5,,0.180793142
+189,13,male,White,middle,urban,low,"skateboarding,videogames,drawing",1,0,1,0,1,0.260329548,5,0.701438108,5,,0.44110856
+190,9,female,Native American,lower,rural,high,"painting,fishing,reading",1,1,0,1,0,0.678466938,5,0.86433989,5,,0.185872952
+191,18,male,African American,upper,urban,medium,"swimming,chess,coding",1,1,0,1,0,0.545701496,5,0.74747574,5,,0.201774244
+192,11,female,Latino,middle,urban,high,"dance,drawing,baking",1,1,1,1,0,0.69442372,5,0.742640792,5,,0.048217072
+193,15,male,Asian,upper,urban,medium,"soccer,mathclub,gaming",1,1,0,1,0,0.50611928,5,0.789029978,5,,0.282910698
+194,12,female,African American,lower,urban,medium,"reading,trackandfield,singing",1,0,1,0,1,0.50672703,5,0.773844886,5,,0.267117856
+195,17,female,White,middle,rural,high,"horseriding,photography,volleyball",1,1,0,1,0,0.551700608,5,0.765334668,5,,0.21363406
+196,14,male,Native American,middle,rural,low,"fishing,videogames,basketball",1,0,1,1,0,0.475779064,5,0.669707276,5,,0.193928212
+197,12,female,Latino,middle,urban,medium,"reading,soccer,painting",1,1,1,0,0,0.57029633,5,0.79416846,5,,0.22387213
+198,8,male,White,lower,urban,high,"drawing,cycling,reading",1,0,1,1,0,0.809061494,5,0.875219182,5,,0.066157688
+199,16,male,Asian,upper,urban,medium,"debateclub,coding,basketball",1,1,1,0,0,0.499304742,5,0.710412486,5,,0.211107744
+200,20,female,African American,middle,urban,high,"writing,playingguitar,volunteering",1,1,0,1,0,0.5945702,5,0.83199523,5,,0.23742503
+201,15,male,Asian,middle,urban,medium,"videogames,basketball,coding",1,0,1,1,0,0.641810076,5,0.466068926,5,,-0.17574115
+202,11,female,Latino,lower,rural,high,"reading,drawing,dancing",1,1,0,1,0,0.497599231,5,0.331053362,5,,-0.166545869
+203,17,male,African American,upper,urban,medium,"soccer,musicproduction,photography",1,1,1,0,0,0.557157888,5,0.460484226,5,,-0.096673662
+204,13,female,White,middle,urban,high,"swimming,playingpiano,writing",1,1,0,1,0,0.659326244,5,0.597323882,5,,-0.062002362
+205,9,male,Native American,lower,rural,low,"fishing,drawing,cycling",1,0,1,1,1,0.640961404,5,0.499616693,5,,-0.141344711
+206,18,female,African American,upper,urban,medium,"debating,volunteering,photography",1,1,0,1,0,0.493192144,5,0.76391522,5,,0.270723076
+207,14,male,White,middle,urban,medium,"videogames,scouting,skateboarding",1,0,1,1,0,0.494765325,5,0.624749348,5,,0.129984023
+208,12,female,Latino,middle,urban,high,"reading,dancing,painting",1,1,0,1,0,0.532932937,5,0.731849654,5,,0.198916717
+209,16,male,Asian,upper,urban,medium,"playingguitar,chess,basketball",1,1,0,1,0,0.687301538,5,0.715462136,5,,0.028160598
+210,10,female,White,lower,rural,high,"reading,drawing,biking",1,1,0,1,0,0.772598919,5,0.747575406,5,,-0.025023513
+211,19,male,Latino,middle,urban,low,"coding,soccer,gaming",1,0,1,0,1,0.143662599,5,0.103662599,5,,-0.04
+212,8,female,African American,lower,urban,high,"drawing,singing,playingtag",1,0,1,1,0,0.095432107,5,0.091432107,5,,-0.004
+213,17,female,Asian,upper,urban,medium,"piano,tennis,reading",1,1,0,1,0,0.795904288,5,0.73023854,5,,-0.065665748
+214,12,male,Native American,middle,rural,low,"fishing,running,readingcomics",1,0,0,1,1,0.134809948,5,0.691128578,5,,0.55631863
+215,14,female,White,middle,urban,high,"swimming,writing,playingviolin",1,1,0,1,0,0.259102516,5,0.854501124,5,,0.595398608
+216,20,male,African American,upper,urban,medium,"basketball,photography,coding",1,1,1,0,0,0.133993256,5,0.72438236,5,,0.590389104
+217,10,female,Latino,lower,urban,high,"painting,reading,soccer",1,1,0,1,0,0.116416833,5,0.70056567,5,,0.584148837
+218,13,male,Asian,upper,urban,medium,"videogames,swimming,robotics",1,0,1,0,1,0.115029131,5,0.105029131,5,,-0.01
+219,15,female,Native American,lower,rural,medium,"reading,drawing,running",1,1,0,1,0,0.644261298,5,0.311786158,5,,-0.33247514
+220,18,male,Latino,middle,urban,low,"football,gaming,music",1,0,1,0,1,0.716824898,5,0.465000049,5,,-0.251824849
+221,9,female,White,middle,urban,high,"playingpiano,reading,dancing",1,1,0,1,0,0.721924312,5,0.524364241,5,,-0.197560071
+222,11,male,African American,lower,urban,high,"basketball,drawing,cycling",1,0,1,1,0,0.125983045,5,0.105983045,5,,-0.02
+223,20,female,Asian,upper,urban,medium,"tennis,baking,writing",1,1,0,1,0,0.133147472,5,0.233147472,5,,0.1
+224,13,male,Latino,middle,urban,high,"soccer,coding,reading",1,1,1,1,0,0.631959716,5,0.556102754,5,,-0.075856962
+225,16,female,White,middle,urban,medium,"photography,swimming,playingguitar",1,1,0,0,1,0.74375102,5,0.384336046,5,,-0.359414974
+226,14,male,White,middle,urban,medium,"videogames,basketball,reading",1,1,1,0,0,0.399864514,5,0.15016868,5,,-0.249695834
+227,10,female,Asian,upper,urban,high,"painting,piano,reading",1,1,0,1,0,0.379676608,5,0.135071254,5,,-0.244605354
+228,16,male,African American,lower,urban,low,"football,videogames,rapmusic",0,0,1,1,1,0.675401412,5,0.440048204,5,,-0.235353208
+229,12,female,Latino,middle,rural,medium,"dancing,reading,drawing",1,1,0,1,0,0.755883148,5,0.171280486,5,,-0.584602662
+230,18,male,Native American,lower,rural,low,"hiking,fishing,videogames",1,0,0,1,1,0.705522276,5,0.310208725,5,,-0.395313551
+231,11,female,White,middle,urban,medium,"swimming,reading,baking",1,1,0,1,0,0.605966328,5,0.153980849,5,,-0.451985479
+232,13,male,Latino,middle,urban,medium,"soccer,videogames,drawing",1,0,1,1,0,0.097310118,5,0.197310118,5,,0.1
+233,15,female,African American,upper,urban,high,"ballet,reading,volunteering",1,1,1,1,0,0.16704164,5,0.16704164,5,,0
+234,17,male,Asian,middle,urban,medium,"coding,chess,reading,basketball",1,1,0,1,0,0.132616974,5,0.132616974,5,,0
+235,20,female,White,upper,urban,high,"photography,traveling,writing,yoga",1,1,1,1,0,0.781482714,5,0.196801388,5,,-0.584681326
+236,9,male,Latino,lower,rural,low,"soccer,drawing,playingwithpets",0,0,1,1,1,0.104311366,5,0.104311366,5,,0
+237,12,female,Middle Eastern,middle,urban,medium,"playingpiano,reading,painting",1,1,0,1,0,0.160723793,5,0.160723793,5,,0
+238,19,male,White,lower,rural,low,"hiking,videogames,guitar",1,0,0,1,0,0.126811039,5,0.126811039,5,,0
+239,11,female,African American,middle,urban,high,"dance,reading,drawing",1,1,0,1,0,0.719169612,5,0.643374918,5,,-0.075794694
+240,8,male,Asian,upper,urban,high,"piano,reading,legobuilding",1,1,0,1,0,0.120771842,5,0.120771842,5,,0
+241,13,female,Native American,middle,rural,medium,"basketball,painting,reading",1,0,1,1,0,0.151263374,5,0.151263374,5,,0
+242,14,male,White,upper,urban,high,"soccer,reading,coding",1,1,0,1,0,0.727961072,5,0.657898296,5,,-0.070062776
+243,10,female,Latino,middle,urban,medium,"dancing,drawing,reading",1,1,1,1,0,0.185577843,5,0.185577843,5,,0
+244,17,male,African American,lower,urban,low,"basketball,videogames,rapmusic",0,0,1,1,1,0.134795929,5,0.134795929,5,,0
+245,13,female,Asian,middle,urban,high,"reading,playingviolin,swimming",1,1,0,1,0,0.190057491,5,0.190057491,5,,0
+246,15,male,White,upper,urban,high,"football,coding,reading",1,1,1,1,0,0.123345689,5,0.123345689,5,,0
+247,11,female,Native American,lower,rural,medium,"drawing,reading,swimming",1,0,0,1,1,0.106997031,5,0.106997031,5,,0
+248,18,female,Latino,upper,urban,high,"photography,traveling,volunteering",1,1,0,1,0,0.150267648,5,0.150267648,5,,0
+249,12,male,African American,lower,urban,medium,"playingbasketball,videogames,drawing",1,0,1,1,0,0.81891716,5,0.732451932,5,,-0.086465228
+250,16,female,Middle Eastern,middle,urban,medium,"writing,playingguitar,swimming",1,1,0,1,0,0.81781956,5,0.236288095,5,,-0.581531465
+251,14,male,White,middle,urban,medium,"videogames,basketball,reading,coding",1,0,1,1,0,0.34831593,5,0.150760844,5,,-0.197555086
+252,10,female,African American,lower,urban,high,"dancing,painting,reading,playingwithpets",1,1,0,1,0,0.410837894,5,0.087006753,5,,-0.323831141
+253,16,male,Latino,middle,urban,low,"soccer,videogames,music,skateboarding",1,0,1,0,1,0.247458779,5,0.078211248,5,,-0.169247531
+254,11,female,Asian,upper,urban,high,"piano,reading,artsandcrafts,swimming",1,1,0,1,0,0.427349536,5,0.089010456,5,,-0.33833908
+255,17,male,Mixed,middle,suburban,medium,"guitar,basketball,videogames,photography",1,1,0,1,0,0.530704556,5,0.254729438,5,,-0.275975118
+256,13,female,Latino,lower,urban,high,"reading,drawing,ballet,volunteering",1,1,0,1,0,0.446354284,5,0.259040679,5,,-0.187313605
+257,15,male,White,upper,urban,medium,"coding,robotics,chess,hiking",1,1,0,0,0,0.432269544,5,0.129509192,5,,-0.302760352
+258,12,female,African American,middle,urban,high,"singing,dancing,reading,playingtheviolin",1,1,1,1,0,0.614454602,5,0.217241865,5,,-0.397212737
+259,19,male,Asian,upper,urban,low,"technology,videogames,basketball,reading",1,0,0,0,1,0.629021,5,0.10598734,5,,-0.52303366
+260,18,female,White,lower,rural,medium,"painting,horsebackriding,volleyball,reading",1,1,1,1,0,0.587636952,5,0.362093099,5,,-0.225543853
+261,9,female,Native American,middle,rural,high,"drawing,playingwithpets,soccer,reading",1,1,0,1,0,0.161954236,5,0.737276254,5,,0.575322018
+262,13,male,Latino,middle,urban,medium,"soccer,playingtheguitar,videogames,math",1,0,1,1,0,0.134397568,5,0.555930206,5,,0.421532638
+263,8,female,Mixed,upper,urban,high,"reading,ballet,painting,swimming",1,1,0,1,0,0.113477728,5,0.782683894,5,,0.669206166
+264,20,male,Asian,lower,urban,low,"basketball,coding,reading,videogames",1,0,1,0,1,0.121607318,5,0.650037072,5,,0.528429754
+265,11,male,African American,middle,urban,high,"playingpiano,soccer,reading,videogames",1,1,0,1,0,0.120265792,5,0.67943595,5,,0.559170158
+266,14,female,White,upper,urban,medium,"writing,basketball,painting,playingtheguitar",1,0,1,1,0,0.185388082,5,0.48742008,5,,0.302031998
+267,9,female,Native American,lower,rural,high,"naturewalks,drawing,playingwithpets,reading",1,1,0,1,0,0.060933648,5,0.688407266,5,,0.627473618
+268,12,male,Latino,middle,rural,medium,"soccer,drawing,videogames,cycling",1,0,1,1,0,0.090562904,5,0.61854151,5,,0.527978606
+269,13,female,Asian,upper,urban,high,"swimming,reading,playingthepiano,art",1,1,0,1,0,0.143561608,5,0.68615246,5,,0.542590852
+270,15,male,White,lower,urban,low,"skateboarding,videogames,basketball,drawing",1,0,1,0,1,0.087066222,5,0.702065448,5,,0.614999226
+271,10,female,African American,middle,urban,medium,"ballet,painting,reading,cycling",1,1,0,1,0,0.096394498,5,0.658738736,5,,0.562344238
+272,18,female,Mixed,upper,urban,high,"writing,volleyball,piano,coding",1,1,1,0,0,0.111082855,5,0.604401802,5,,0.493318947
+273,16,male,White,middle,rural,medium,"coding,hiking,videogames,guitar",1,1,0,0,0,0.112581572,5,0.631349276,5,,0.518767704
+274,11,female,Latino,lower,urban,high,"ballet,reading,drawing,playingwithpets",1,1,0,1,0,0.141345727,5,0.747885538,5,,0.606539811
+275,19,male,African American,upper,urban,medium,"basketball,coding,photography,gaming",1,1,1,0,0,0.178146616,5,0.738512806,5,,0.56036619
+276,14,male,African American,middle,urban,medium,"videogames,basketball,drawing",0,1,1,0,0,0.082878433,5,0.347569352,5,,0.264690919
+277,16,female,Latino,lower,urban,high,"reading,dancing,painting",1,1,0,1,0,0.21511532,5,0.628484006,5,,0.413368686
+278,12,male,White,upper,rural,medium,"swimming,reading,coding",1,0,0,1,0,0.123275142,5,0.528501022,5,,0.40522588
+279,17,female,Asian,middle,urban,high,"piano,volleyball,photography",1,1,1,0,0,0.13903119,5,0.753664234,5,,0.614633044
+280,15,male,Native American,lower,rural,low,"hiking,videogames,fishing",1,0,0,1,1,0.100813953,5,0.628376706,5,,0.527562753
+281,10,female,White,upper,urban,high,"ballet,reading,sketching",1,1,0,1,0,0.1240815,5,0.724935206,5,,0.600853706
+282,13,female,Mixed,middle,urban,medium,"soccer,reading,painting",0,1,1,1,0,0.106547221,5,0.675725504,5,,0.569178283
+283,18,male,Latino,lower,urban,low,"basketball,videogames,skateboarding",0,0,1,0,1,0.09222597,5,0.760052488,5,,0.667826518
+284,9,female,African American,middle,urban,high,"dancing,reading,playingpiano",1,1,0,1,0,0.139715804,5,0.770547248,5,,0.630831444
+285,19,male,Asian,upper,urban,medium,"chess,swimming,programming",1,1,0,0,0,0.161513192,5,0.75570418,5,,0.594190988
+286,11,female,White,middle,rural,high,"horseriding,reading,painting",1,0,1,1,0,0.218042267,5,0.838015894,5,,0.619973627
+287,15,male,Native American,lower,rural,low,"hiking,videogames,fishing",1,0,0,1,1,0.074311067,5,0.742972974,5,,0.668661907
+288,8,female,White,middle,urban,high,"painting,gymnastics,reading",1,1,0,1,0,0.074468499,5,0.87628984,5,,0.801821341
+289,20,male,Latino,middle,urban,medium,"soccer,videogames,photography",1,0,1,0,0,0.147315089,5,0.839374484,5,,0.692059395
+290,10,female,African American,lower,urban,low,"dancing,singing,playingsoccer",1,0,1,1,1,0.095310566,5,0.806898378,5,,0.711587812
+291,14,male,Asian,upper,urban,high,"mathclub,robotics,piano",0,1,0,1,0,0.171368665,5,0.77150133,5,,0.600132665
+292,12,female,Mixed,middle,urban,medium,"reading,playingviolin,soccer",1,1,0,1,0,0.256178528,5,0.839460308,5,,0.58328178
+293,9,male,White,middle,rural,high,"soccer,reading,videogames",1,0,1,1,0,0.074641309,5,0.838238368,5,,0.763597059
+294,16,female,Latino,middle,urban,medium,"dancing,volunteering,painting",1,1,1,0,0,0.114773257,5,0.838805968,5,,0.724032711
+295,11,male,Asian,upper,urban,high,"piano,coding,swimming",1,0,0,1,0,0.130890108,5,0.836178304,5,,0.705288196
+296,17,female,African American,middle,urban,high,"writing,ballet,volunteering",1,1,0,1,1,0.183167388,5,0.83787129,5,,0.654703902
+297,13,male,Mixed,lower,urban,low,"basketball,coding,playingguitar",0,0,1,1,1,0.102463933,5,0.837390556,5,,0.734926623
+298,18,female,Native American,middle,rural,medium,"hiking,reading,photography",1,1,0,1,0,0.271131787,5,0.83664852,5,,0.565516733
+299,8,male,White,upper,urban,high,"Legobuilding,soccer,reading",0,0,1,1,1,0.105919346,5,0.821493872,5,,0.715574526
+300,12,female,African American,lower,urban,medium,"reading,singing,basketball",1,1,1,1,0,0.141614526,5,0.82125002,5,,0.679635494
